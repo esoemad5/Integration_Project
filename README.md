@@ -16,7 +16,7 @@ Give examples
 
 ### Installing
 
-You will need to create a file ``Models/ApiKeys.cs`` in which you define 
+You will need to create a file ``Assets/ApiKeys.cs`` in which you define 
 
 ```
 using System;
